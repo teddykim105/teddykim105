@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Lab 2-2  
+my first github profile.  
+nice to meet you!  
+
 <!--
 **teddykim105/teddykim105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
